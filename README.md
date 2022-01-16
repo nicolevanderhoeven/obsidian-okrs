@@ -12,6 +12,7 @@ These templates make use of:
 - (optional) [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) community plugin
 - (optional) [Daily Notes](https://help.obsidian.md/Plugins/Daily+notes) core plugin
 
+## The templates
 - Level 1: [Core Principles](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Core%20Principes.md) template
 - Level 2: Yearly
     - [Yearly OKRs](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Yearly%20OKRs.md)
