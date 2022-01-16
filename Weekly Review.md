@@ -30,15 +30,12 @@ Keep these things in mind as you do this week's review:
 
 ## Last week
 
+![[Weekly Review <% tp.date.now("YYYY") %>-W<% tp.date.now("ww"), %>#This week]]
+
 ```ad-question
 title: Questions to ask
 What were your goals last week, and did you finish them? What are you changing so that you can do them this month?
 ```
-
-
-- [ ] 
-- [ ] 
-- [ ] 
 
 ## This week
 

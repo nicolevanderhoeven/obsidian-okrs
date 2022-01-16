@@ -7,6 +7,7 @@ These templates make use of:
 - [Obsidian](https://obsidian.md)
 - [Templates](https://help.obsidian.md/Plugins/Templates) core plugin
 - [Obsidian Admonition](https://github.com/valentine195/obsidian-admonition) community plugin
+- [Templater](https://silentvoid13.github.io/Templater/) community plugin
 - (optional) [Quick Add](https://github.com/chhoumann/quickadd) community plugin
 - (optional) [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) community plugin
 - (optional) [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) community plugin
